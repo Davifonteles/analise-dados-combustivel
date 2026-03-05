@@ -18,7 +18,9 @@ O que os dashboards mostram
 Ferramentas usadas
 
 Power BI: para os dashboards e visualizações
+
 Consolidação e estruturação dos dados brutos
+
 Definição de KPIs junto com a equipe da Makro
 
 
