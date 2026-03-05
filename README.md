@@ -1,21 +1,43 @@
-Análise de Dados – Controle de Frota 🚗
+📊 Análise de Dados – Controle de Frota 🚗
 
-Como surgiu esse projeto
+📌 Como surgiu esse projeto
 
 Durante o programa Capacita Brasil, tive a oportunidade de trabalhar com a Makro Engenharia Ltda num desafio bem concreto: a empresa precisava enxergar melhor o que estava acontecendo com a frota dela. Consumo de combustível, quilômetros rodados, horas de operação, orçamento e tudo isso espalhado em planilhas sem muita visibilidade.
 A solução foi construir dashboards no Power BI que trouxessem essas informações de forma clara, com filtros por unidade, contrato e período.
 
 O que os dashboards mostram
 
-💰 Orçamento: Quanto foi planejado vs. quanto foi gasto de fato. Simples, mas essencial pra quem precisa justificar custos.
+💰 Orçamento: Apresenta a comparação entre valores planejados e valores realizados, permitindo identificar variações nos custos operacionais da frota.
 
-🛣️ KM Rodados: Monitoramento do uso real dos veículos. Ajuda a identificar subutilização ou excesso de uso em determinadas rotas.
+Indicadores principais:
+- Orçamento planejado
+- Valor realizado
+- Diferença entre previsto e executado
 
-⏱️ Horas Ligado: Tempo de operação da frota. Um dado que muita empresa ignora, mas que faz diferença na análise de desgaste e eficiência.
+🛣️ KM Rodados: Permite acompanhar o volume de quilômetros percorridos pelos veículos ao longo do tempo, com filtros por unidade, contrato e período.
 
-⛽ Consumo (Litros): Visão mensal do consumo, com filtros dinâmicos por frota, unidade e contrato. Esse foi o painel mais solicitado pela equipe.
+Esse painel auxilia na identificação de:
+- Veículos subutilizados
+- Rotas com maior utilização
+- Padrões de uso da frota
 
-Ferramentas usadas
+⏱️ Horas Ligado: Apresenta o tempo de operação dos veículos ao longo do período analisado.
+Esse indicador permite entender quanto tempo os veículos permanecem em funcionamento, auxiliando na identificação de possíveis ineficiências operacionais, como veículos ligados por longos períodos sem deslocamento.
+
+Indicadores analisados:
+- Total de horas de operação
+- Comparação entre unidades ou contratos
+- Evolução ao longo do tempo
+
+⛽ Consumo (Litros): Visão mensal do consumo, com filtros dinâmicos por frota, unidade e contrato
+
+Possui filtros por:
+- Unidade
+- Contrato
+- Frota
+- Período
+
+🛠️ Ferramentas usadas:
 
 Power BI: para os dashboards e visualizações
 
@@ -23,7 +45,22 @@ Consolidação e estruturação dos dados brutos
 
 Definição de KPIs junto com a equipe da Makro
 
+⚠️ Desafios dos Dados:
 
-O que aprendi
+Durante o desenvolvimento do projeto, foram encontrados alguns desafios relacionados à qualidade dos dados, como:
 
-Mais do que técnica, esse projeto me ensinou a traduzir necessidades reais de negócio em indicadores que fazem sentido pra quem vai usar no dia a dia. Não adianta um dashboard bonito se ninguém sabe o que ele está tentando dizer.
+- valores inconsistentes
+- registros com valores negativos
+- diferenças de padrão entre planilhas
+- grande volume de dados não estruturados
+
+Esses fatores exigiram um processo inicial de organização e validação dos dados antes da construção dos dashboards.
+
+
+📚 Aprendizado
+
+Esse projeto foi minha primeira experiência trabalhando com dados próximos de um contexto real de empresa.
+
+Durante o desenvolvimento, precisei lidar com bases de dados extensas e com diferentes níveis de consistência, o que exigiu cuidado na organização, consolidação e interpretação das informações antes da construção dos dashboards.
+
+Além da parte técnica no Power BI, o projeto reforçou a importância de transformar dados brutos em indicadores que realmente ajudem na tomada de decisão. Aprendi que um bom dashboard não é apenas visualmente organizado, mas precisa comunicar informações claras e úteis para quem utiliza no dia a dia.
