@@ -7,20 +7,18 @@ A solução foi construir dashboards no Power BI que trouxessem essas informaç�
 
 O que os dashboards mostram
 
-💰 Orçamento — Quanto foi planejado vs. quanto foi gasto de fato. Simples, mas essencial pra quem precisa justificar custos.
+💰 Orçamento: Quanto foi planejado vs. quanto foi gasto de fato. Simples, mas essencial pra quem precisa justificar custos.
 
-🛣️ KM Rodados — Monitoramento do uso real dos veículos. Ajuda a identificar subutilização ou excesso de uso em determinadas rotas.
+🛣️ KM Rodados: Monitoramento do uso real dos veículos. Ajuda a identificar subutilização ou excesso de uso em determinadas rotas.
 
-⏱️ Horas Ligado — Tempo de operação da frota. Um dado que muita empresa ignora, mas que faz diferença na análise de desgaste e eficiência.
+⏱️ Horas Ligado: Tempo de operação da frota. Um dado que muita empresa ignora, mas que faz diferença na análise de desgaste e eficiência.
 
-⛽ Consumo (Litros) — Visão mensal do consumo, com filtros dinâmicos por frota, unidade e contrato. Esse foi o painel mais solicitado pela equipe.
+⛽ Consumo (Litros): Visão mensal do consumo, com filtros dinâmicos por frota, unidade e contrato. Esse foi o painel mais solicitado pela equipe.
 
 Ferramentas usadas
 
-Power BI — para os dashboards e visualizações
-
+Power BI: para os dashboards e visualizações
 Consolidação e estruturação dos dados brutos
-
 Definição de KPIs junto com a equipe da Makro
 
 
