@@ -17,4 +17,5 @@ Definição de KPIs junto com a equipe da Makro
 
 
 O que aprendi
+
 Mais do que técnica, esse projeto me ensinou a traduzir necessidades reais de negócio em indicadores que fazem sentido pra quem vai usar no dia a dia. Não adianta um dashboard bonito se ninguém sabe o que ele está tentando dizer.
