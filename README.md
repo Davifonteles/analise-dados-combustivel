@@ -2,7 +2,7 @@ Análise de Dados – Controle de Frota 🚗
 
 Como surgiu esse projeto
 
-Durante o programa Capacita Brasil, tive a oportunidade de trabalhar com a Makro Engenharia Ltda num desafio bem concreto: a empresa precisava enxergar melhor o que estava acontecendo com a frota dela. Consumo de combustível, quilômetros rodados, horas de operação, orçamento — tudo isso espalhado em planilhas sem muita visibilidade.
+Durante o programa Capacita Brasil, tive a oportunidade de trabalhar com a Makro Engenharia Ltda num desafio bem concreto: a empresa precisava enxergar melhor o que estava acontecendo com a frota dela. Consumo de combustível, quilômetros rodados, horas de operação, orçamento e tudo isso espalhado em planilhas sem muita visibilidade.
 A solução foi construir dashboards no Power BI que trouxessem essas informações de forma clara, com filtros por unidade, contrato e período.
 
 O que os dashboards mostram
