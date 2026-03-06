@@ -1,11 +1,11 @@
 # 📊 Análise de Dados – Controle de Frota 🚗
 
-📌 Como surgiu esse projeto
+## 📌 Como surgiu esse projeto
 
 Durante o programa Capacita Brasil, tive a oportunidade de trabalhar com a Makro Engenharia Ltda num desafio bem concreto: a empresa precisava enxergar melhor o que estava acontecendo com a frota dela. Consumo de combustível, quilômetros rodados, horas de operação, orçamento e tudo isso espalhado em planilhas sem muita visibilidade.
 A solução foi construir dashboards no Power BI que trouxessem essas informações de forma clara, com filtros por unidade, contrato e período.
 
-📊 O que os dashboards mostram
+## 📊 O que os dashboards mostram
 
 💰 Orçamento: Apresenta a comparação entre valores planejados e valores realizados, permitindo identificar variações nos custos operacionais da frota.
 
@@ -45,7 +45,7 @@ Possui filtros por:
 - Frota
 - Período
 
-🛠️ Ferramentas usadas
+## 🛠️ Ferramentas usadas
 
 Power BI: para os dashboards e visualizações
 
@@ -53,7 +53,7 @@ Consolidação e estruturação dos dados brutos
 
 Definição de KPIs junto com a equipe da Makro
 
-⚠️ Desafios dos Dados
+## ⚠️ Desafios dos Dados
 
 Durante o desenvolvimento do projeto, foram encontrados alguns desafios relacionados à qualidade dos dados, como:
 
@@ -64,7 +64,7 @@ Durante o desenvolvimento do projeto, foram encontrados alguns desafios relacion
 
 Esses fatores exigiram um processo inicial de organização e validação dos dados antes da construção dos dashboards.
 
-💡 Principais Insights
+## 💡 Principais Insights
 
 Algumas observações obtidas a partir da análise dos dados da frota:
 
@@ -77,7 +77,7 @@ Algumas observações obtidas a partir da análise dos dados da frota:
 Essas análises ajudam a criar uma visão mais clara sobre o uso da frota e podem auxiliar na identificação de oportunidades de otimização operacional.
 
 
-📚 Aprendizado
+## 📚 Aprendizado
 
 Esse projeto foi minha primeira experiência trabalhando com dados próximos de um contexto real de empresa.
 
