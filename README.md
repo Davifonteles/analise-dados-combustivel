@@ -7,7 +7,7 @@ A solução foi construir dashboards no Power BI que trouxessem essas informaç�
 
 ## 📊 O que os dashboards mostram
 
-💰 Orçamento: Apresenta a comparação entre valores planejados e valores realizados, permitindo identificar variações nos custos operacionais da frota.
+### 💰 Orçamento: Apresenta a comparação entre valores planejados e valores realizados, permitindo identificar variações nos custos operacionais da frota.
 
 ![Orçamento](imagens/Orcamento-Dashboard.png)
 
@@ -16,7 +16,7 @@ Indicadores principais:
 - Valor realizado
 - Diferença entre previsto e executado
 
-🛣️ KM Rodados: Permite acompanhar o volume de quilômetros percorridos pelos veículos ao longo do tempo, com filtros por unidade, contrato e período.
+### 🛣️ KM Rodados: Permite acompanhar o volume de quilômetros percorridos pelos veículos ao longo do tempo, com filtros por unidade, contrato e período.
 
 ![KM Rodados](imagens/KM-Rodados-Dashboard.png)
 
@@ -25,7 +25,7 @@ Esse painel auxilia na identificação de:
 - Rotas com maior utilização
 - Padrões de uso da frota
 
-⏱️ Horas Ligado: Apresenta o tempo de operação dos veículos ao longo do período analisado.
+### ⏱️ Horas Ligado: Apresenta o tempo de operação dos veículos ao longo do período analisado.
 Esse indicador permite entender quanto tempo os veículos permanecem em funcionamento, auxiliando na identificação de possíveis ineficiências operacionais, como veículos ligados por longos períodos sem deslocamento.
 
 ![Horas Ligadas](imagens/Horas-Ligadas-Dashboard.png)
@@ -35,7 +35,7 @@ Indicadores analisados:
 - Comparação entre unidades ou contratos
 - Evolução ao longo do tempo
 
-⛽ Consumo (Litros): Visão mensal do consumo, com filtros dinâmicos por frota, unidade e contrato
+### ⛽ Consumo (Litros): Visão mensal do consumo, com filtros dinâmicos por frota, unidade e contrato
 
 ![Consumo Litros](imagens/Consumo-Litros-Dashboard.png)
 
