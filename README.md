@@ -18,7 +18,7 @@ Indicadores principais:
 
 🛣️ KM Rodados: Permite acompanhar o volume de quilômetros percorridos pelos veículos ao longo do tempo, com filtros por unidade, contrato e período.
 
-![Dashboard KM Rodados](imagens/kmrodados.png)
+![KM Rodados](imagens/KM-Rodados-Dashboard.png)
 
 Esse painel auxilia na identificação de:
 - Veículos subutilizados
@@ -28,7 +28,7 @@ Esse painel auxilia na identificação de:
 ⏱️ Horas Ligado: Apresenta o tempo de operação dos veículos ao longo do período analisado.
 Esse indicador permite entender quanto tempo os veículos permanecem em funcionamento, auxiliando na identificação de possíveis ineficiências operacionais, como veículos ligados por longos períodos sem deslocamento.
 
-![Dashboard Horas Ligadas](imagens/HorasLigadas.png)
+![Horas Ligadas](imagens/Horas-Ligadas-Dashboard.png)
 
 Indicadores analisados:
 - Total de horas de operação
@@ -37,7 +37,7 @@ Indicadores analisados:
 
 ⛽ Consumo (Litros): Visão mensal do consumo, com filtros dinâmicos por frota, unidade e contrato
 
-![Dashboard Consumo Litros](imagens/ConsumoLitros.png)
+![Consumo Litros](imagens/Consumo-Litros-Dasboard.png)
 
 Possui filtros por:
 - Unidade
