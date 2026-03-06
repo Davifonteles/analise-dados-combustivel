@@ -9,9 +9,7 @@ A solução foi construir dashboards no Power BI que trouxessem essas informaç�
 
 💰 Orçamento: Apresenta a comparação entre valores planejados e valores realizados, permitindo identificar variações nos custos operacionais da frota.
 
-<p align="center">
-  <img src="imagens/orcamento.png" width="800">
-</p>
+![Orçamento](imagens/Orcamento-Dashboard.png)
 
 Indicadores principais:
 - Orçamento planejado
