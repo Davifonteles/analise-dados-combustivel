@@ -37,7 +37,7 @@ Indicadores analisados:
 
 ⛽ Consumo (Litros): Visão mensal do consumo, com filtros dinâmicos por frota, unidade e contrato
 
-![Consumo Litros](imagens/Consumo-Litros-Dasboard.png)
+![Consumo Litros](imagens/Consumo-Litros-Dashboard.png)
 
 Possui filtros por:
 - Unidade
